@@ -1,4 +1,4 @@
-package de.fraunhofer.fit.KickstartIDSSmartDataAppTemplate;
+package de.fraunhofer.fit.IDSSmartDataAppTemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

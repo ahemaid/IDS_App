@@ -34,7 +34,7 @@
 		<dependency>
 			<groupId>de.fraunhofer.iais.eis.ids.infomodel</groupId>
 			<artifactId>java</artifactId>
-			<version>4.2.8</version>
+			<version>5.0.0</version>
 		</dependency>
 
 		<dependency>
@@ -70,8 +70,20 @@
 			<artifactId>springdoc-openapi-ui</artifactId>
 			<version>1.4.1</version>
 		</dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>23.0.0</version>
+            <scope>compile</scope>
+        </dependency>
+		<dependency>
+			<groupId>org.jetbrains</groupId>
+			<artifactId>annotations</artifactId>
+			<version>23.0.0</version>
+			<scope>compile</scope>
+		</dependency>
 
-    </dependencies>
+	</dependencies>
 
 	<repositories>
 		<repository>
